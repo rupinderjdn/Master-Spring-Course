@@ -1,8 +1,8 @@
 package com.rupinder.MasterSpring.game;
 
 public class GameRunnder {
-    MarioGame game;
-    public GameRunnder(MarioGame game) {
+    GamingConsole game;
+    public GameRunnder(GamingConsole game) {
         this.game = game;
     }
 
